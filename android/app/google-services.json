@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521297678947",
+    "project_id": "communi-link-ma-v-ille2-0dtppg",
+    "storage_bucket": "communi-link-ma-v-ille2-0dtppg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521297678947:android:994d99cd338fa87a0f9e56",
+        "android_client_info": {
+          "package_name": "com.mycompany.mavilleprototype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl8OtUAlmrjEfzTxEauLzXAPkS3ONhvTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521297678947:android:2d67d731fcf75faf0f9e56",
+        "android_client_info": {
+          "package_name": "com.mycompany.mavilleprototype2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl8OtUAlmrjEfzTxEauLzXAPkS3ONhvTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
